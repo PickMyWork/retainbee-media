@@ -1,0 +1,22 @@
+# Retainbee by PickMyWork
+
+> Retainbee is a customer engagement platform for D2C brands. It brings leads from stores, campaigns, CSV files and field teams into one profile each, then re-engages and converts them into repeat customers on WhatsApp, SMS, email, RCS and push. Built by PickMyWork.
+
+## Main page
+- [Retainbee by PickMyWork](https://www.pickmywork.com/retainbee/): what the platform does, how leads become repeat customers, the two product films and FAQs.
+
+## What Retainbee does
+- One profile for every lead, tagged by source and city.
+- Lead sources: store orders, email, SMS and RCS campaigns, CSV imports, and PickMyWork field teams (optional).
+- Channels: email, WhatsApp, SMS, RCS, push notifications and in-app messages, from one journey builder.
+- Integrations: Shopify, WooCommerce, Razorpay, Google Sheets, Claude and ChatGPT.
+- Reporting on what each message earned.
+
+## Field teams (optional lead source)
+Trained PickMyWork field teams run product trials, in-store demos, society, gym and college drives and launch activations. Each conversation is logged on the PickMyWork Field App with a GPS stamp and a photo, with consent, and the lead goes straight into Retainbee.
+
+## About PickMyWork
+- [PickMyWork](https://www.pickmywork.com/): the company behind Retainbee and its field teams.
+
+## Contact
+- Request a demo on the Retainbee page: https://www.pickmywork.com/retainbee/#demo
