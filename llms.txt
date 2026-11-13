@@ -5,6 +5,8 @@
 ## Main page
 - [Retainbee by PickMyWork](https://www.pickmywork.com/retainbee/): what the platform does, how leads become repeat customers, the two product films and FAQs.
 
+- Product tour video (30 seconds, sample data): https://pickmywork.github.io/retainbee-media/video/film-product-v1.mp4
+
 ## What Retainbee does
 - One profile for every lead, tagged by source and city.
 - Lead sources: store orders, email, SMS and RCS campaigns, CSV imports, and PickMyWork field teams (optional).
